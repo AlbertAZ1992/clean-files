@@ -2,9 +2,9 @@
 
 module.exports = {
   "checkingDirectories": [
-    "/Users/albertaz/Downloads",
-    "/Users/albertaz/Documents",
-    "/Users/albertaz/Desktop"
+    "/Users/${your-user-name}/Downloads",
+    "/Users/${your-user-name}/Documents",
+    "/Users/${your-user-name}/Desktop"
   ],
   "deleteFileTypes": [
     "png", "jpeg", "jpg",
